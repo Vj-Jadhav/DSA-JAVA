@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
