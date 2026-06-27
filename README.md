@@ -44,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
