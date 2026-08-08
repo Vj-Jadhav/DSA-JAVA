@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
+| [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
+| [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Graph Theory
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
