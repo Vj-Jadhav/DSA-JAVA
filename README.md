@@ -26,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
+| [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Graph Theory
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
