@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
+| [0771-jewels-and-stones](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 ## Graph Theory
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
