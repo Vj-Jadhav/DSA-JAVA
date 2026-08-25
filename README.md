@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
