@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1470-shuffle-the-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
 |  |
@@ -224,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
