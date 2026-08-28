@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Graph Theory
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
+| [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Design
 |  |
 | ------- |
