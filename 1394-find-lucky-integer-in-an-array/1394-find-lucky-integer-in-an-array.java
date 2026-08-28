@@ -8,13 +8,14 @@ class Solution {
         }
        
        int ans = -1;
+
         for(int key : map.keySet()){
 
             int value = map.get(key);
 
             if(key == value){
 
-                ans = Math.max(value,value);
+                ans = Math.max(value,ans);
             }
 
         }
