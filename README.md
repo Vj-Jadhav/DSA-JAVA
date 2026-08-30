@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3663-find-the-least-frequent-digit) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
+| [3663-find-the-least-frequent-digit](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
+| [3663-find-the-least-frequent-digit](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Graph Theory
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
+| [3663-find-the-least-frequent-digit](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3663-find-the-least-frequent-digit) |
 | [3866-first-unique-even-element](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3866-first-unique-even-element) |
 ## Design
 |  |
