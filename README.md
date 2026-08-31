@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -242,4 +243,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
