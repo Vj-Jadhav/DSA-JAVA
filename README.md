@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Matrix
 |  |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
