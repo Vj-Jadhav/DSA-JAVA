@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
