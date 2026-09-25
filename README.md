@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0771-jewels-and-stones) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Quickselect
 |  |
 | ------- |
