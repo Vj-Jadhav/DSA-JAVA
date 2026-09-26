@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1748-sum-of-unique-elements) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
