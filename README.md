@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Queue
@@ -302,5 +305,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
