@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3904-smallest-stable-index-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |
