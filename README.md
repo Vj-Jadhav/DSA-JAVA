@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0198-house-robber) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
