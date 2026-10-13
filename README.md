@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 ## Prefix Sum
 |  |
@@ -333,5 +336,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
