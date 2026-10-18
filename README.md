@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0572-subtree-of-another-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0706-design-hashmap) |
 ## Quicksort
 |  |
@@ -350,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
