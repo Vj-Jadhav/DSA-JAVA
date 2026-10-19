@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0841-keys-and-rooms) |
+| [0938-range-sum-of-bst](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0938-range-sum-of-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
