@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0292-nim-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0633-sum-of-square-numbers) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
