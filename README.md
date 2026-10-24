@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
 | [0200-number-of-islands](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0733-flood-fill) |
@@ -377,4 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0389-find-the-difference) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vj-Jadhav/DSA-JAVA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
